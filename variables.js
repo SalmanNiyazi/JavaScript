@@ -17,3 +17,6 @@ console.log(stringAge);// this would give 231 as result because this is a string
 
 console.log(firstName + " " + lastName + " is " + age);//concatenation of strings
 console.log(student);
+
+//const = a variable that can't be changed
+

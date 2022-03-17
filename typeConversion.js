@@ -20,7 +20,7 @@ x = Number("pizza")
 y = String(3.14);
 z = Boolean("pizza");
 
-console.log(x, typeof x);//result = NaN number,this will give NaN as result because x is a string
+console.log(x, typeof x);//result = NaN number,this will give NaN as result because x is a non-number value
 console.log(y, typeof y);//result = 3.14 string
 console.log(z, typeof z);///result = true boolean
 
